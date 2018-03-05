@@ -1,6 +1,6 @@
 package lista_27_02_2018;
 
-public class ex2_ex3 {
+public class  ex2_ex3 {
 
 	public static void main(String[] args) {
 
@@ -12,8 +12,8 @@ public class ex2_ex3 {
 		
 		System.out.println(c.getTitular() + " " + c.getNumero() + " " + c.getSaldo());
 		
-		/* getters e setter só devem ser criados se for necessário interagir com os atributos da classe
-		sem utilizar métodos públicos da classe. */
+		/* getters e setter sï¿½ devem ser criados se for necessï¿½rio interagir com os atributos da classe
+		sem utilizar mï¿½todos pï¿½blicos da classe. */
 
 	}
 

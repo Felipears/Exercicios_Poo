@@ -13,7 +13,7 @@ public class ex4 {
 		System.out.println(c1.getTitular());
 		System.out.println(c2.getTitular());
 		
-		//Quando se cria um construtor com argumento de receber o titular é possível já definir o titular
+		//Quando se cria um construtor com argumento de receber o titular e possivel ja definir o titular
 		//Sem necessidade de utilizar o setter como Exemplificado na conta c1
 
 	}
